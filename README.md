@@ -9,7 +9,8 @@
 ```sh
 $ npm install
 $ brew install mongodb // Install mongodb
-$ mkdir -p /data/db // Create mongodb database directory ***Note: Make sure open write access for `data` folder ` and `db` folder
+$ mkdir -p /data/db // Create mongodb database directory
+***Note: Make sure open write access for `data` folder ` and `db` folder
 $ mongod // Run mongodb server
 $ mongo // *New tab: Start creating and modifying database
  > use yourhealth
